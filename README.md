@@ -5,7 +5,7 @@
 </h1>
 <img align="right" width="300" height="200" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
-🎓 pre-Final Year B.Tech - Artificial intelligence and MAchine learning  
+🎓 pre-Final Year B.Tech - Artificial intelligence and Machine learning  
 👨‍💻 Passionate Developer | Python, AI/ML
 📈 Lifelong Learner | Always exploring & upskilling  
 🔍 Currently deep-diving into: *Full Stack Development, **AI/ML
@@ -13,7 +13,6 @@
 - 🌟 Strong foundation in Python and intelligent software systems  
 - 🤝 Love collaborating on real-world, impactful projects  
 - 💼 Hands-on with cloud platforms, data science, and scalable web apps  
-- 🧠 Exploring quantum computing principles & futuristic tech  
 - ✨ Believer in consistent growth through curiosity and contribution  
 
 ---
@@ -31,9 +30,6 @@
 ![CSS](https://img.shields.io/badge/CSS-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![AWS EC2](https://img.shields.io/badge/AWS%20EC2-orange?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
