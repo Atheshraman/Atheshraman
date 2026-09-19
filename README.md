@@ -63,8 +63,6 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Atheshraman\&theme=tokyonight\&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atheshraman\&layout=compact\&theme=tokyonight)
-
 ---
 
 ## 💬 Quote That Drives Me
@@ -73,5 +71,4 @@
 
 ---
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Atheshraman\&icon=5\&color=6)
 
